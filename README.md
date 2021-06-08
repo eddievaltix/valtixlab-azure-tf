@@ -4,5 +4,5 @@ This Terraform example template creates a simple lab network consisting of a hub
 ## How to use:
 1. git clone this repo
 1. use Azure CLI to login ```az login```
-1. use the terraform_tfvars.example files to create a terraform.tfvars file
+1. use the example.tfvars files to create a terraform.tfvars file
 1. run terraform init, terraform plan, terraform apply
